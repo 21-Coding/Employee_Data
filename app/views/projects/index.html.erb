@@ -1,5 +1,6 @@
 <h1>Projects</h1>
 
+<div class="division">
 
 <% if @projects.any? %>
   <ul>
@@ -12,5 +13,6 @@
   <p>There are no projects yet.</p>
 <% end %>
 
+</div>
 
 <p><%= link_to "Create new project", new_project_path %></p>

@@ -23,7 +23,7 @@
 Division.destroy_all
 
 50.times do |index|
-  Division.create! :div_name => Faker::TvShows::RickAndMorty.location
+  Division.create! :div_name => Faker::Job.field
 end
 
 

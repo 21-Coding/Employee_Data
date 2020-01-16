@@ -31,3 +31,5 @@ Things you may want to cover:
 
 * need scopes
 * need seeding
+
+* https://github.com/21-Coding/faker#quotes

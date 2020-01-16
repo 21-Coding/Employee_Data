@@ -20,13 +20,10 @@ body {
 
 }
 
-p {
-  color: white;
 
-}
 
 a {
-  color: red;
+  color: purple;
   font-family: 'Alfa Slab One', cursive;
 }
 
@@ -39,12 +36,16 @@ li {
 }
 
 .division {
-  width: 420px;
-  height: 200px;
+
+  width: 320px;
+  height: 100px;
   overflow: scroll;
+  margin-left: 90px;
+    margin-top: 50px;
 }
 
 .division2 {
   margin-top: 50px;
+
 
 }
